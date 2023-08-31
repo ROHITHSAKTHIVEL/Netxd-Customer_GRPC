@@ -1,8 +1,9 @@
 package controller
 
 import (
-	pro "Netxd_Project/Netxd_Customer/customer"
 	"context"
+
+	pro "github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto/proto"
 
 	"github.com/ROHITHSAKTHIVEL/Netxd_DAL/interfaces"
 	"github.com/ROHITHSAKTHIVEL/Netxd_DAL/models"

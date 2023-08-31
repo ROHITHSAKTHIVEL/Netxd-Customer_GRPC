@@ -5,13 +5,12 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/ROHITHSAKTHIVEL/Netxd-Customer_GRPC/Netxd_Customer_GRPC/controller"
+	pro "github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto/proto"
+
+	"github.com/ROHITHSAKTHIVEL/Netxd-Customer_GRPC/controller"
 	"github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config/config"
 	"github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config/constants"
-
-	pro "Netxd_Project/Netxd_Customer/customer"
-
-	services "github.com/ROHITHSAKTHIVEL/Netxd_DAL/Netxd_DAL/services"
+	"github.com/ROHITHSAKTHIVEL/Netxd_DAL/services"
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc"
@@ -19,7 +18,7 @@ import (
 
 func initDatabase(client *mongo.Client) {
 	customerCollection := config.GetCollection(client, "DemoBank", "Customer")
-	controller.CustomerService = services.I(customerCollection, context.Background())
+	controller.CustomerService = services.InitCustomerService(customerCollection, context.Background())
 }
 
 func main() {

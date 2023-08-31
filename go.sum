@@ -1,9 +1,17 @@
 github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config v1.0.0 h1:q1ao2Jy0oCW9xqSBcca6toLmkmf6HReOlPDqiQzfBiY=
 github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config v1.0.0/go.mod h1:e90g4s0DIl6p3tE5b6doBmf0ztKCAvT2PqOAW+UxKOw=
+github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config v1.0.2 h1:GaPQZ3kk8u1+V965xIJppgSNl1fiOqgd5BgwbDTLeTw=
+github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config v1.0.2/go.mod h1:EPJUu9J46+CgIIU+0YiAVuhbEV7tVJ5qmk25vZ79E1M=
+github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto v1.0.1 h1:tiScTVyKiNh9c5HX3M8BBY92XdlogBROu9GtoF5gf30=
+github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto v1.0.1/go.mod h1:WtItvpPN/ttzWBsqJqTKoTz7cglWP4KwHaS/LrXwKyo=
+github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto v1.0.2 h1:MN/oSdfSixtXWVIc57abkIkLaCtnjjhoWhrZPq0aOVg=
+github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto v1.0.2/go.mod h1:WtItvpPN/ttzWBsqJqTKoTz7cglWP4KwHaS/LrXwKyo=
 github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.1 h1:h6Ns3tAnu4Z3x0RLMRVJICNWkkHu/enmV4q5j9DOZAQ=
 github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.1/go.mod h1:7TN3/4SKK8NhOkARl3j3xh891cppyDWumvEHdWc3Fzg=
 github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.3 h1:Olbjws5r2YFoQEHiEcnBaD7kPG7t6V2ObGkGEOImk6M=
 github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.3/go.mod h1:dQTgFLVLKm0RrS1+QQ18GhdMFudRy9E0FPVSyEynBZw=
+github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.4 h1:8I8py721HwUyUEcJJevn2ZROPSCWfFaNZwl29b/74hI=
+github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.4/go.mod h1:zc421ifLvzAk7yhUFVQtLXYQds5qEVsBmh5qjUV+iYk=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
@@ -74,3 +82,5 @@ google.golang.org/protobuf v1.26.0-rc.1/go.mod h1:jlhhOSvTdKEhbULTjvd4ARK9grFBp0
 google.golang.org/protobuf v1.26.0/go.mod h1:9q0QmTI4eRPtz6boOQmLYwt+qCgq0jsYwAQnmE0givc=
 google.golang.org/protobuf v1.30.0 h1:kPPoIgf3TsEvrm0PFe15JQ+570QVxYzEvvHqChK+cng=
 google.golang.org/protobuf v1.30.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
+google.golang.org/protobuf v1.31.0 h1:g0LDEJHgrBl9N9r17Ru3sqWhkIx2NB67okBHPwC7hs8=
+google.golang.org/protobuf v1.31.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
