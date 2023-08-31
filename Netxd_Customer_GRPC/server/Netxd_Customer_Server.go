@@ -1,15 +1,17 @@
 package main
 
 import (
-	"Netxd_Project/Netxd_Customer_GRPC/config"
-	"Netxd_Project/Netxd_Customer_GRPC/constants"
-	"Netxd_Project/Netxd_Customer_GRPC/controller"
-	"Netxd_Project/Netxd_DAL/services"
 	"context"
 	"fmt"
 	"net"
 
+	"github.com/ROHITHSAKTHIVEL/Netxd-Customer_GRPC/Netxd_Customer_GRPC/controller"
+	"github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config/config"
+	"github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config/constants"
+
 	pro "Netxd_Project/Netxd_Customer/customer"
+
+	"github.com/ROHITHSAKTHIVEL/Netxd_DAL/Netxd_DAL/services"
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc"

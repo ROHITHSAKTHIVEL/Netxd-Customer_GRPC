@@ -2,9 +2,10 @@ package controller
 
 import (
 	pro "Netxd_Project/Netxd_Customer/customer"
-	"Netxd_Project/Netxd_DAL/interfaces"
-	"Netxd_Project/Netxd_DAL/models"
 	"context"
+
+	"github.com/ROHITHSAKTHIVEL/Netxd_DAL/Netxd_DAL/interfaces"
+	"github.com/ROHITHSAKTHIVEL/Netxd_DAL/Netxd_DAL/models"
 )
 
 type RPCserver struct {
