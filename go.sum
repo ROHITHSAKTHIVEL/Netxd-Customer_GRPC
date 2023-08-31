@@ -2,6 +2,8 @@ github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config v1.0.0 h1:q1ao2Jy0oCW9xqSBcca6t
 github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config v1.0.0/go.mod h1:e90g4s0DIl6p3tE5b6doBmf0ztKCAvT2PqOAW+UxKOw=
 github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.1 h1:h6Ns3tAnu4Z3x0RLMRVJICNWkkHu/enmV4q5j9DOZAQ=
 github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.1/go.mod h1:7TN3/4SKK8NhOkARl3j3xh891cppyDWumvEHdWc3Fzg=
+github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.3 h1:Olbjws5r2YFoQEHiEcnBaD7kPG7t6V2ObGkGEOImk6M=
+github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.3/go.mod h1:dQTgFLVLKm0RrS1+QQ18GhdMFudRy9E0FPVSyEynBZw=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=

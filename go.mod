@@ -9,7 +9,7 @@ require (
 
 require (
 	github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config v1.0.0 // indirect
-	github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.1 // indirect
+	github.com/ROHITHSAKTHIVEL/Netxd_DAL v1.0.3 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
